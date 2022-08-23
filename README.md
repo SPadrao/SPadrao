@@ -1,7 +1,7 @@
  ## Olá 👋
 
 - 📚 Estou cursando o Interdisciplinar em Ciência e Tecnologia na Unifesp. Após o ICT, pretendo ir para ciência da computação.
-- 💻 Postarei aqui os meus estudos das disciplinas cursadas.
+- 💻 Postarei aqui os meus estudos independentes e das disciplinas cursadas.
 
 <div>
   <a href="https://github.com/SPadrao">
