@@ -1,6 +1,6 @@
  ## Olá 👋
 
-- 📚 Estou cursando o Interdisciplinar em Ciência e Tecnologia na Unifesp. Após o ICT, pretendo ir para ciência da computação.
+- 📚 Sou graduada em Interdisciplinar em Ciência e Tecnologia na Unifesp.
 - 💻 Postarei aqui os meus estudos independentes e das disciplinas cursadas.
 
 <div>
