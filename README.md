@@ -13,9 +13,7 @@
 <div align="center">
  <div style="display: inline_block"> 
  <img align="left" height="250" src="https://steamuserimages-a.akamaihd.net/ugc/860601357766308967/8B55F0B2E848C074B0E813C8B46DE695DC87C515/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
- <h1 align="center" class="heading-element" dir="auto">Focusing on:</h1>
-  <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
-  <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> 
+ <h1 align="center" class="heading-element" dir="auto">Studying:</h1>
  <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
  <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />            
           
