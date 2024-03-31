@@ -1,6 +1,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello, World 👋</h1></summary>
+    I have some experience with Angular and now I'm learning about test tools 
 </div>
 <div align="center">
  <div style="display: inline_block"> <br>
@@ -14,7 +15,10 @@
  <img align="left" height="250" src="https://steamuserimages-a.akamaihd.net/ugc/860601357766308967/8B55F0B2E848C074B0E813C8B46DE695DC87C515/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"/>
  <h1 align="center" class="heading-element" dir="auto">Focusing on:</h1>
   <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"/>
-  <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> 
+ <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
+ <img height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" />            
+          
  <h3 align="center" class="heading-element" dir="auto">When coding, I listen to:</h3>
   <img height="40" width="auto" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Logo_of_TWICE.svg/1839px-Logo_of_TWICE.svg.png"/>
   <img height="40" width="auto" src="https://i.pinimg.com/originals/ad/55/b0/ad55b0d522d1ca7ed991b99bf83d00b4.png"/>
