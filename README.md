@@ -1,7 +1,7 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hello, World 👋</h1></summary>
-    I have some experience with Angular and now I'm learning about test tools 
+    I have some experience with Angular 
 </div>
 <div align="center">
  <div style="display: inline_block"> <br>
