@@ -1,18 +1,19 @@
-📌 **About Me**  
-Hi! I'm **Sabrina**, passionate about technology and always looking for new challenges. I have experience in web development and recently transitioned to **Technical Support and DevOps**. I'm currently pursuing a **postgraduate degree in DevOps** and studying **Google Cybersecurity** to strengthen my skills in **networks, system administration, and security**.  
+📌 **About Me**
+Hi! I'm Sabrina, passionate about technology and always seeking new challenges. I'm currently pursuing a postgraduate degree in DevOps and a specialization in AWS by Escola da Nuvem, focused on cloud infrastructure, automation, and continuous delivery pipelines.
 
-💡 **What I’m Learning Now:**  
-- **DevOps concepts** and **infrastructure automation**  
-- **Cybersecurity fundamentals** and best practices
-- **Google Project Management**
+💡 **What I’m Learning Now:**
 
-🔧 **Technical Skills:**  
-- IT Support: **Google IT Support Certified**  
-- Web Development: **Angular, Python, C, PostgreSQL**  
-- Version Control: **Git/GitHub**  
-- Agile Methodologies: **Kanban, Scrum**  
+* **DevOps practices**, CI/CD, and **infrastructure as code**
+* **AWS cloud services** and **architecture best practices**
 
-📫 **Contact:**  
-[LinkedIn](https://www.linkedin.com/in/sabrina-padrao) | [Email](mailto:s.padrao@outlook.com)  
+🔧 **Technical Skills:**
 
-🚀 Open to opportunities in **Technical Support, Project Analyst and DevOps**!  
+* IT Support: **Google IT Support Certified**
+* Web Development: **Angular, Python, C, PostgreSQL**
+* Version Control: **Git/GitHub**
+* Agile Methodologies: **Kanban, Scrum**
+
+📫 **Contact:**
+[LinkedIn](https://www.linkedin.com/in/sabrina-padrao) | [Email](mailto:s.padrao@outlook.com)
+
+🚀 Open to opportunities in **Technical Support, Cloud Analyst and DevOps**!
