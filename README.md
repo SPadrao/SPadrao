@@ -1,5 +1,5 @@
 📌 **About Me**
-Hi! I'm Sabrina, passionate about technology and always seeking new challenges. I'm currently pursuing a postgraduate degree in DevOps and a specialization in AWS by Escola da Nuvem, focused on cloud infrastructure, automation, and continuous delivery pipelines.
+Hi! I'm Sabrina, passionate about technology and always seeking new challenges. I'm currently pursuing a specialization in AWS by Escola da Nuvem, focused on cloud infrastructure, automation, and continuous delivery pipelines.
 
 💡 **What I’m Learning Now:**
 
