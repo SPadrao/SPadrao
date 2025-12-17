@@ -21,5 +21,5 @@ I have a background in **software development and cloud operations**, working wi
 📫 **Contact**  
 [LinkedIn](https://www.linkedin.com/in/sabrina-padrao) | [Email](mailto:s.padrao@outlook.com)
 
-🚀 Open to opportunities in **DevOps, Cloud Engineering, Platform Engineering, and SRE (Mid-level)**.
+🚀 Open to opportunities in **DevOps, Cloud Engineering, Platform Engineering, and SRE**.
 
